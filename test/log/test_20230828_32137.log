@@ -1,0 +1,4 @@
+2023-08-28 03:21:37.696502 <thread 57090> [debug] [moban.cc:149] this is debug log record, param: 3
+2023-08-28 03:21:37.696515 <thread 57090> [info] [moban.cc:150] this is info log record, param: 4
+2023-08-28 03:21:37.696544 <thread 57090> [warning] [moban.cc:151] this is warn log record, param: 5.0
+2023-08-28 03:21:37.696549 <thread 57090> [error] [moban.cc:152] this is error log record, param: 6
